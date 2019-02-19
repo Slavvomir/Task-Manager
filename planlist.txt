@@ -1,0 +1,2 @@
+Lista zadan z dodawaniem usuwaniem i wyszukiwarka
+Wszystko dodawać do localstorage
